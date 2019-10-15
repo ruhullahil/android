@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">message</string>
+    <string name="tab_text_1">focus</string>
+    <string name="tab_text_2">others</string>
+</resources>
