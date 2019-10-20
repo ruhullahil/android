@@ -47,16 +47,13 @@
             android:ems="10"
             android:gravity="start|top"
             android:layout_alignParentStart="true"
-            android:inputType="textMultiLine"
-            android:layout_alignParentLeft="true" />
+            android:inputType="textMultiLine" />
 
         <Button
             android:id="@+id/send"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/messagebody"
             android:layout_alignParentBottom="true"
-            android:layout_marginTop="163dp"
             android:text="send" />
     </RelativeLayout>
 </LinearLayout>
